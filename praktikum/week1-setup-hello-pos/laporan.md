@@ -141,7 +141,7 @@ public class helloProcedural {
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
 ![Screenshot hasil](/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133231.png)
-![Screenshot hasil](/main/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133257.png)
+![Screenshot hasil](/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133257.png)
 ![Screenshot hasil](/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133319.png)
 
 )
