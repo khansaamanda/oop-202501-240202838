@@ -166,25 +166,29 @@ Solusi: Gunakan fitur IDE dan pahami tiap paradigma sebagai alat pemecahan masal
 ---
 
 ## Kesimpulan
-Praktikum minggu ini terjadi pergeseran sukses dari Pemrograman Prosedural menuju dua paradigma yang lebih canggih, yaitu OOP dan Fungsional. Pemrograman Berorientasi Objek (OOP), melalui penggunaan Class dan Object, menjadikan kode lebih terstruktur dan mudah dikembangkan karena menggabungkan data dan perilaku terkait. Sementara itu, Pemrograman Fungsional, dengan Lambda Expression, memungkinkan penulisan kode yang ringkas dan elegan dengan memisahkan logika dari eksekusi. Secara keseluruhan, penguasaan ketiga paradigma ini membuktikan pentingnya fleksibilitas dalam memilih alat yang tepat untuk mengelola dan memecahkan masalah kompleks dalam pengembangan perangkat lunak.
+Praktikum minggu ini terjadi pergeseran sukses dari Pemrograman Prosedural menuju dua paradigma yang lebih canggih, yaitu OOP dan Fungsional. Pemrograman Berorientasi Objek (OOP), melalui penggunaan Class dan Object, menjadikan kode lebih terstruktur dan mudah dikembangkan karena menggabungkan data dan perilaku terkait. Sementara itu, Pemrograman Fungsional, dengan Lambda Expression, memungkinkan penulisan kode yang ringkas dan elegan dengan memisahkan logika dari eksekusi. Secara keseluruhan, penguasaan ketiga paradigma ini membuktikan pentingnya fleksibilitas dalam memilih alat yang tepat untuk mengelola dan memecahkan masalah kompleks dalam pengembangan perangkat lunak..
 ---
 
 ## Quiz
 (1. 1.  Apakah OOP selalu lebih baik dari prosedural? 
 OOP tidak selalu lebih baik dari prosedural.
 OOP cocok untuk sistem besar dan kompleks, sedangkan prosedural lebih efisien untuk program kecil dan sederhana.
+
 2. Kapan functional programming lebih cocok digunakan
  dibanding OOP atau prosedural?
 Functional programming cocok untuk komputasi data, pemrosesan paralel, dan sistem yang perlu mudah diuji tanpa efek samping.
+
 3. Bagaimana paradigma (prosedural, OOP, fungsional) 
 memengaruhi maintainability dan scalability aplikasi?
 Pengaruh paradigma:
 a.) Prosedural: sulit dirawat saat program besar.
 b.) OOP: mudah diperluas dan dipelihara.
 c.) Fungsional: kode ringkas, mudah diuji, dan mendukung paralelisme. 
+
 4. MengapaOOP lebih cocok untuk mengembangkan
  aplikasi POS dibanding prosedural?
 OOP cocok untuk aplikasi POS karena dapat memodelkan objek nyata (produk, transaksi, kasir) dan memudahkan pengembangan fitur.
+
 5. Bagaimana paradigma fungsional dapat membantu
  mengurangi kode berulang (boilerplate code)?
 Functional programming mengurangi kode berulang lewat fungsi murni dan higher-order functions seperti map, filter, dan reduce. 
