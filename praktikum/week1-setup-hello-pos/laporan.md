@@ -1,5 +1,5 @@
 # Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+Topik: ["Implementasi Tiga Paradigma Pemrograman dalam Bahasa Java"]
 
 ## Identitas
 - Nama  : [Khansa Amanda Icha Sentana]
@@ -10,7 +10,7 @@ Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
 
 ## Tujuan
 Mahasiswa memahami perbedaan paradigma pemrograman Procedural, Functional, dan Object Oriented Programming (OOP) dalam bahasa Java, serta dapat membuat program sederhana menggunakan ketiga paradigma tersebut untuk menampilkan informasi identitas diri.
----
+
 
 ## Dasar Teori
 1. Pemrograman Prosedural adalah paradigma pemrograman yang menyusun kode dalam bentuk prosedur atau fungsi, di mana eksekusi program dilakukan langkah demi langkah.
@@ -163,11 +163,9 @@ b.) Fungsional: Menggunakan Lambda Expression dan Functional Interface untuk log
 OOP: Tantangan memahami konsep kelas dan objek.
 Fungsional: Sulit di awal karena sintaks Lambda.
 Solusi: Gunakan fitur IDE dan pahami tiap paradigma sebagai alat pemecahan masalah berbeda.
----
 
 ## Kesimpulan
 Praktikum minggu ini terjadi pergeseran sukses dari Pemrograman Prosedural menuju dua paradigma yang lebih canggih, yaitu OOP dan Fungsional. Pemrograman Berorientasi Objek (OOP), melalui penggunaan Class dan Object, menjadikan kode lebih terstruktur dan mudah dikembangkan karena menggabungkan data dan perilaku terkait. Sementara itu, Pemrograman Fungsional, dengan Lambda Expression, memungkinkan penulisan kode yang ringkas dan elegan dengan memisahkan logika dari eksekusi. Secara keseluruhan, penguasaan ketiga paradigma ini membuktikan pentingnya fleksibilitas dalam memilih alat yang tepat untuk mengelola dan memecahkan masalah kompleks dalam pengembangan perangkat lunak..
----
 
 ## Quiz
 (1. 1.  Apakah OOP selalu lebih baik dari prosedural? 
