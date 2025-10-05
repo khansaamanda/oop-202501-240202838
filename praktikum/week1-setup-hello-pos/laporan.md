@@ -166,7 +166,7 @@ Solusi: Gunakan fitur IDE dan pahami tiap paradigma sebagai alat pemecahan masal
 ---
 
 ## Kesimpulan
-Praktikum minggu ini terjadi pergeseran sukses dari Pemrograman Prosedural menuju dua paradigma yang lebih canggih, yaitu OOP dan Fungsional. Pemrograman Berorientasi Objek (OOP), melalui penggunaan Class dan Object, menjadikan kode lebih terstruktur dan mudah dikembangkan karena menggabungkan data dan perilaku terkait. Sementara itu, Pemrograman Fungsional, dengan Lambda Expression, memungkinkan penulisan kode yang ringkas dan elegan dengan memisahkan logika dari eksekusi. Secara keseluruhan, penguasaan ketiga paradigma ini membuktikan pentingnya fleksibilitas dalam memilih alat yang tepat untuk mengelola dan memecahkan masalah kompleks dalam pengembangan perangkat lunak.
+Praktikum minggu ini terjadi pergeseran sukses dari Pemrograman Prosedural menuju dua paradigma yang lebih canggih, yaitu OOP dan Fungsional. Pemrograman Berorientasi Objek (OOP), melalui penggunaan Class dan Object, menjadikan kode lebih terstruktur dan mudah dikembangkan karena menggabungkan data dan perilaku terkait. Sementara itu, Pemrograman Fungsional, dengan Lambda Expression, memungkinkan penulisan kode yang ringkas dan elegan dengan memisahkan logika dari eksekusi. Secara keseluruhan, penguasaan ketiga paradigma ini membuktikan pentingnya fleksibilitas dalam memilih alat yang tepat untuk mengelola dan memecahkan masalah kompleks dalam pengembangan perangkat lunak..
 ---
 
 ## Quiz
