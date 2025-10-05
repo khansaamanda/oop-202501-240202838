@@ -86,6 +86,8 @@ public class helofunctional {
         sapa.accept("Khansa Amanda Icha Sentana", "240202838");
         System.out.println("Program Functional Selesai, Terimakasih");
 }
+```
+```java
 }
 class Mahasiswa{
     String nama;
@@ -115,6 +117,8 @@ public class helloOOP {
     }
     
 }
+```
+```java
 public class helloProcedural {
 
   
@@ -136,7 +140,10 @@ public class helloProcedural {
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
+![Screenshot hasil](/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133231.png)
+![Screenshot hasil](/main/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133257.png)
+![Screenshot hasil](/praktikum/week1-setup-hello-pos/screnshots/Screenshot%202025-10-01%20133319.png)
+
 )
 ---
 
