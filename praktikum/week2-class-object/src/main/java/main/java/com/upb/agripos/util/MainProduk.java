@@ -1,7 +1,7 @@
 package main.java.com.upb.agripos.util;
 
 import main.java.com.upb.agripos.model.Produk;
-import main.java.com.upb.agripos.util.CreditBy;
+
 
 public class MainProduk {
      public static void main(String[] args) {
