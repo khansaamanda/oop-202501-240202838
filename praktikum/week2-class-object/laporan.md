@@ -1,5 +1,5 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
-Topik: [Tuliskan judul topik, misalnya "Class dan Object"]
+# Laporan Praktikum Minggu 2
+Topik: Penerapan Konsep Class dan Object pada Program Pengelolaan Stok Produk
 
 ## Identitas
 - Nama  : Khansa Amanda Icha Sentana
