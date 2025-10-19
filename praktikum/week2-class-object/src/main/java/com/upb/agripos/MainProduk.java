@@ -1,10 +1,12 @@
-package main.java.com.upb.agripos.util;
+package com.upb.agripos;
 
-import main.java.com.upb.agripos.model.Produk;
+import com.upb.agripos.util.CreditBy;
+import com.upb.agripos.model.Produk;
 
 
 public class MainProduk {
      public static void main(String[] args) {
+
         Produk p1 = new Produk("BNH-001", "Benih kacang IR64", 15000, 100);
         Produk p2 = new Produk("PPK-101", "Pupuk padi 50kg", 450000, 40);
         Produk p3 = new Produk("VTM-501", "vitamin cabe", 100000, 15);
