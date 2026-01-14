@@ -1,4 +1,4 @@
-package com.upb.agripos;
+package main.java.com.upb.agripos;
 
 import com.upb.agripos.util.CreditBy;
 import com.upb.agripos.model.Produk;
@@ -24,4 +24,3 @@ public class MainProduk {
         CreditBy.print("240202838", "Khansa Amanda Icha Sentana");
     }
 }
-
