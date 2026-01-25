@@ -1,0 +1,6 @@
+CREATE TABLE products (
+    code VARCHAR(10) PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    price NUMERIC(12, 2) NOT NULL,
+    stock INTEGER NOT NULL
+);
